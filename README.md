@@ -9,8 +9,6 @@
 
 - 🔭 I’m currently working on **PC Builder App**                
 
-- 🌱 I’m currently learning **React**
-
 - 📫 How to reach me **omarmaherkhatib2@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
