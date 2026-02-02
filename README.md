@@ -7,8 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=omar-maher-khatib&label=Profile%20views&color=0e75b6&style=flat" alt="omar-maher-khatib" /> </p>
 
-- 🔭 I’m currently working on **PC Builder App**                
-
+            
 - 📫 How to reach me **omarmaherkhatib2@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
