@@ -10,7 +10,7 @@
             
 - 📫 How to reach me **omarmaherkhatib2@gmail.com**
 
-<div class="flex">
+<div class="flex flex-row">
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/omar_maher_khatib" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="omar_maher_khatib" height="30" width="40" /></a>
